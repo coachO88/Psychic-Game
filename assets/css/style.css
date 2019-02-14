@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.container{
+    width: 80%;
+    background-color: white;
+    border: 3px solid navy;
+    margin: 15px auto;
+}
+
+header{
+    width:531px;
+    
+}
+
+.image{
+    display: inline-block;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.titleDiv{
+    display: inline-block;
+    width:200px;
+}
+
+.title{
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    color: navy;
+    
+}
+
+.underscore{
+    width: 80%;
+    background-color: white;
+    border: 3px solid navy;
+    margin: 0 auto;
+    font-size: 100px;
+    height: 150px;
+    text-align: center;
+    margin: 50px auto;
+    /* font-family: 'Indie Flower', cursive; */
+  
+}
+
+.rightGuess{
+    width: 80%;
+    background-color: white;
+    border: 3px solid navy;
+    margin: 0 auto;
+    font-size: 30px;
+    height: 150px;
+    text-align: center;
+    margin: 50px auto;
+    font-family: 'Indie Flower', cursive;
+     
+ }
+
+ .wrongGuess{
+    width: 80%;
+    background-color: white;
+    border: 3px solid navy;
+    margin: 0 auto;
+    font-size: 30px;
+    height: 150px;
+    text-align: center;
+    margin: 50px auto;
+    font-family: 'Indie Flower', cursive;
+ }
